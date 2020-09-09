@@ -27,6 +27,10 @@ Please change these items to indicate the actual information you wish to present
 
 {copy for this file (index.md)}
 Replace the text above the commented area with your information in the format below:
+
+## Welcome to the OWASP Ankara Chapter
+This is where you can find content and news related to the Ankara Chapter
+
 ```
 ## Welcome
 Include some information here about your chapter
