@@ -15,3 +15,10 @@
 
 ### Change Log
 * [Changes](https://github.com/OWASP/www-chapter-ankara/commits/master)
+=======
+### Chapter Information
+
+
+### Social Links
+* [Meetup](https://www.meetup.com/owasp-ankara-meetup-group/)
+* [Social Link](#)
