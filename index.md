@@ -6,7 +6,6 @@ tags: example-tag
 region: Asia
 meetup-group: OWASP-Ankara-Chapter
 country: Turkey
-postal-code: 
 
 ---
 
