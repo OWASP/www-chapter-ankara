@@ -1,0 +1,29 @@
+leaders:
+  - name: Alper Basaran
+    email: alper.basaran@owasp.org
+  - name: Aleyna Kiziltas
+    email: aleyna.kiziltas@owasp.org
+  - name: Beyza Erturk
+    email: beyza.erturk@owasp.org
+  - name: Murat Demirci
+    email: murat.demirci@owasp.org
+  - name: Ahmet Salih Seckin
+    email: ahmet.seckin@owasp.org
+location:
+  country: Turkey
+  country_code: TR
+  region: Ankara
+  city: Ankara
+  latitude: 39.7160439
+  longitude: 32.7059948
+meetup_group: OWASP-Ankara-Chapter
+name: OWASP Ankara
+repositories:
+  - name: www-chapter-ankara
+    url: https://github.com/OWASP/www-chapter-ankara
+    description: OWASP Foundation Web Repository
+tags:
+  - example-tag
+  - custom-tag-1
+  - custom-tag-2
+website: https://owasp.org/www-chapter-ankara
